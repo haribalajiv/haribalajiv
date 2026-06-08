@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=haribalajiv20&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/haribalajiv20?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=haribalajiv&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/haribalajiv?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-38bdae?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Madurai%2C%20India-70a5fd?style=flat-square&logo=googlemaps&logoColor=white" />
 </div>
@@ -26,7 +26,7 @@ class HariBalaji:
     def __init__(self):
         self.name         = "Hari Balaji V"
         self.location     = "Madurai, Tamil Nadu, India"
-        self.email        = "haribalajiv20@gmail.com"
+        self.email        = "haribalajiv@gmail.com"
         self.degree       = "B.Tech – AI & Data Science (2023–2027)"
         self.cgpa         = 8.27
         self.stack        = [
@@ -99,15 +99,36 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Skills
 
 <div align="center">
-  <a href="https://github.com/haribalajiv20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=haribalajiv20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Hari Balaji's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/haribalajiv20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haribalajiv20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+
+### 🧑‍💻 Skill Levels
+<br/>
+
+| Category | Skill | Level |
+|----------|-------|-------|
+| 🐍 Language | Python | ![](https://img.shields.io/badge/Advanced-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🗄️ Language | SQL | ![](https://img.shields.io/badge/Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 🤖 AI/ML | Machine Learning | ![](https://img.shields.io/badge/Intermediate-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| 🧠 AI/ML | Deep Learning | ![](https://img.shields.io/badge/Intermediate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| ✨ AI/ML | Generative AI | ![](https://img.shields.io/badge/Intermediate-74AA9C?style=flat-square&logo=openai&logoColor=white) |
+| 👁️ AI/ML | Computer Vision | ![](https://img.shields.io/badge/Intermediate-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🔗 Framework | LangChain | ![](https://img.shields.io/badge/Intermediate-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| 🤗 Framework | Hugging Face | ![](https://img.shields.io/badge/Intermediate-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| 📊 Tools | Power BI | ![](https://img.shields.io/badge/Beginner-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| 🔬 Tools | KNIME | ![](https://img.shields.io/badge/Beginner-FFD700?style=flat-square&logoColor=black) |
+
+<br/>
+
+### 📈 GitHub Activity
+<br/>
+
+![Repos](https://img.shields.io/badge/Public%20Repos-1+-70a5fd?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/Stars%20Earned-Growing-bf91f3?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Commits-Active-38bdae?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Languages](https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+
 </div>
 
 ---
@@ -115,7 +136,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=haribalajiv20&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=haribalajiv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -123,15 +144,22 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=haribalajiv20&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=haribalajiv&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Milestones & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haribalajiv20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+  ![First Repo](https://img.shields.io/badge/🏆%20First%20Repo-Unlocked-gold?style=for-the-badge&labelColor=0d1117)
+  ![AI Projects](https://img.shields.io/badge/🤖%20AI%20Projects-3%20Built-70a5fd?style=for-the-badge&labelColor=0d1117)
+  ![Internships](https://img.shields.io/badge/💼%20Internships-2%20Completed-bf91f3?style=for-the-badge&labelColor=0d1117)
+  ![Certifications](https://img.shields.io/badge/📜%20Certifications-3%20Earned-38bdae?style=for-the-badge&labelColor=0d1117)
+  ![AI Tools](https://img.shields.io/badge/🛠️%20AI%20Tools-15%20Explored-orange?style=for-the-badge&labelColor=0d1117)
+  ![CGPA](https://img.shields.io/badge/🎓%20CGPA-8.27%2F10-green?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
@@ -242,13 +270,13 @@ print(me.motto())
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:haribalajiv20@gmail.com">
+  <a href="mailto:haribalajiv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/haribalajiv20">
+  <a href="https://github.com/haribalajiv">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/haribalajiv20">
+  <a href="https://www.linkedin.com/in/haribalajiv">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
