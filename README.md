@@ -26,7 +26,9 @@ class HariBalaji:
     def __init__(self):
         self.name         = "Hari Balaji V"
         self.location     = "Madurai, Tamil Nadu, India"
-        self.email        = "haribalajiv@gmail.com"
+        self.email        = "haribalajiv20@gmail.com"
+        self.linkedin     = "linkedin.com/in/hari-balaji-v-579629307"
+        self.github       = "github.com/haribalajiv"
         self.degree       = "B.Tech – AI & Data Science (2023–2027)"
         self.cgpa         = 8.27
         self.stack        = [
@@ -40,10 +42,10 @@ class HariBalaji:
             "MLOps & model deployment"
         ]
         self.areas_of_interest = [
-            "Generative AI",  "LLMs",
-            "Computer Vision","Data Science"
+            "Generative AI", "LLMs",
+            "Computer Vision", "Data Science"
         ]
-        self.fun_fact     = "I explored 15 AI tools in a single internship!"
+        self.fun_fact = "I explored 15 AI tools in a single internship!"
 
     def motto(self):
         return "Build AI that matters — solve real problems, not toy demos."
@@ -270,21 +272,27 @@ print(me.motto())
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:haribalajiv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/haribalajiv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/haribalajiv">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
-<br/>
+<a href="mailto:haribalajiv20@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-haribalajiv20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+</a>
 
-<div align="center">
-  <i>"Build AI that matters — solve real problems, not toy demos."</i>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hari-balaji-v-579629307">
+  <img src="https://img.shields.io/badge/LinkedIn-Hari%20Balaji%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/haribalajiv">
+  <img src="https://img.shields.io/badge/GitHub-haribalajiv-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<p><i>"Build AI that matters — solve real problems, not toy demos."</i></p>
+
 </div>
 
 <br/>
